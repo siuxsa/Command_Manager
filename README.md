@@ -36,4 +36,4 @@ Alright, let’s play with it!
 
 ### Hit Me Up
 
-I’m Shorif, the guy behind this. Catch me on [LinkedIn](https://www.linkedin.com/in/siuxsa/) Got questions or ideas? Drop me a line!
+I’m SA, the guy behind this. Catch me on [LinkedIn](https://www.linkedin.com/in/siuxsa/) Got questions or ideas? Drop me a line!
