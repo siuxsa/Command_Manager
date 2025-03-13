@@ -3,6 +3,9 @@
 This is a cool little web tool I whipped up to help you organize commands, group them into batches, and even mess around with temporary domain changes. The default domain is `target.com`, but you can swap it out with whatever you want—don’t worry, it resets when you refresh! Let’s dive in.
 
 
+<img src="https://raw.githubusercontent.com/siuxsa/Command_Manager/refs/heads/main/data/Screenshot%202025-03-14%20025158.png">
+
+
 ### How to Get It Going
 
 Yo, here’s the easy setup:
