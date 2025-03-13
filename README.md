@@ -7,9 +7,9 @@ This is a cool little web tool I whipped up to help you organize commands, group
 
 Yo, here’s the easy setup:
 
-- Grab the code by cloning the repo: `git clone https://github.com/your-username/command-manager.git`
-- Jump into the folder: `cd command-manager`
-- Open `All Command.html` in your browser—Chrome or Firefox works great. Just double-click it or use `file:///path/to/command manager pro.html`. No fancy server needed!
+- Grab the code by cloning the repo: `git clone https://github.com/siuxsa/Command_Manager.git`
+- Jump into the folder: `cd Command_Manager`
+- Open `command manager pro.html` in your browser—Chrome or Firefox works great. Just double-click it or use `file:///path/to/command manager pro.html`. No fancy server needed!
 
 ### How to Use It
 
